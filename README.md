@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Ersin!
+
+## Hi there 👋, I'm Ersin!
+
 <div align="center">
 <a href="https://www.linkedin.com/in/ersin-hyusein-72a184241/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -10,3 +12,20 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+### Glad to see you here!  
+I am currently a student University of Economics Varna. I love learning new stuff. I learn fast about new technologies.
+  
+
+<br/>  
+
+- 🔭 I’m currently working on my portfolio  
+  
+
+- 🌱 I’m currently learning React (**Advanced**)  
+  
+
+- 📫 How to reach me: ersin99mehmed@gmail.com 
+
+<br/>  
+
