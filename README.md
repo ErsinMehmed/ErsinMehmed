@@ -18,7 +18,7 @@ I am currently a student University of Economics Varna. I love learning new stuf
   
 <br/>  
 
-- 🔭 I’m currently working on my portfolio  
+- 🔭 I’m currently working on appointment system  
   
 
 - 🌱 I’m currently learning React (**Advanced**)  
