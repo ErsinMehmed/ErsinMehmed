@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Ersin!
 
-<!--
-**ErsinMehmed/ErsinMehmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://www.linkedin.com/in/ersin-hyusein-72a184241/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
