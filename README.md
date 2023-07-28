@@ -16,7 +16,6 @@
 ### Glad to see you here!  
 I am currently a student University of Economics Varna. I love learning new stuff. I learn fast about new technologies.
   
-
 <br/>  
 
 - 🔭 I’m currently working on my portfolio  
@@ -25,7 +24,7 @@ I am currently a student University of Economics Varna. I love learning new stuf
 - 🌱 I’m currently learning React (**Advanced**)  
   
 
-- 📫 How to reach me: ersin99mehmed@gmail.com 
+- 📫 How to reach me: ersin99mehmed@gmail.com
 
 <br/>  
 
