@@ -48,3 +48,9 @@ I am currently a student at University of Economics Varna and I working at MyPos
 </div>  
 
 <br/>  
+
+## Github Stats 
+
+![Profile views counter](https://komarev.com/ghpvc/?username=ErsinMehmed&&for-the-badge)  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsinMehmed&hide_border=true&layout=compact&theme=github_dark" align="center"/>
