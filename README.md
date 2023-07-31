@@ -14,7 +14,7 @@
 </div>  
 
 ### Glad to see you here!  
-I am currently a student at University of Economics Varna. I love learning new stuff. I learn fast about new technologies.
+I am currently a student at University of Economics Varna and I working at MyPos. I love learning new stuff. I learn fast about new technologies.
   
 <br/>  
 
