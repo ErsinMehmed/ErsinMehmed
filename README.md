@@ -18,9 +18,9 @@ I am currently a student at University of Economics Varna and I working at MyPos
   
 <br/>  
 
-- 🔭 I’m currently working on appointment system and projects at work.
+- 🔭 I’m currently working on projects at work.
 
-- 🌱 I’m currently learning React (**Advanced**)  
+- 🌱 I’m currently learning React (**Advanced**) and Next.js
 
 - 📫 How to reach me: ersin99mehmed@gmail.com
 
